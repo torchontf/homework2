@@ -1,11 +1,11 @@
 body {
-  font-family: "lucida grande", sans-serif;
+  font-family: "Lucida Grande", "sans-serif";
   background-color: #000000;
   color: #ffffff;
 }
 
 img {
-  display:  block;
+  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 525px;
@@ -14,6 +14,7 @@ img {
 
 h1 {
   font-size: 64px;
+  text-align: center;
 }
 
 h2 {
